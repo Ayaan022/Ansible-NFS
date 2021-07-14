@@ -1,3 +1,5 @@
-[NFS_Servers]
+[nfs_server]
+44.194.210.63
 
-[NFS_Clients]
+[nfs_client]
+52.204.83.44
